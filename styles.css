@@ -1,0 +1,64 @@
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 30px;
+  margin-left: 30px;
+  padding: 10px;
+}
+
+header img {
+  width: 150px;
+}
+
+#second {
+  padding: 15px;
+}
+
+#second img {
+  display: block;
+  margin: auto;
+}
+
+#third {
+  padding: 15px;
+  text-align: center;
+}
+
+#third img {
+margin: 10px;;
+}
+
+#fourth {
+  padding: 15px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+#fourth img {
+  margin-right: 20px;
+  margin-left: 180px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+footer {
+  background-color: grey;
+  text-align: center;
+}
